@@ -11,7 +11,7 @@ Rigorously evaluated on a **50-question benchmark** across 4 financial NLP task 
 [![Model](https://img.shields.io/badge/base-Qwen2.5--7B--Instruct-orange)](https://huggingface.co/unsloth/Qwen2.5-7B-Instruct-bnb-4bit)
 [![Framework](https://img.shields.io/badge/framework-Unsloth%20%2B%20LoRA-green)](https://github.com/unslothai/unsloth)
 [![Hardware](https://img.shields.io/badge/hardware-T4%20GPU%20(Colab)-lightgrey)](#training-setup)
-[![HuggingFace Space](https://img.shields.io/badge/demo-HuggingFace%20Space-yellow)](https://huggingface.co/spaces)
+[![HuggingFace Space](https://img.shields.io/badge/demo-HuggingFace%20Space-yellow)](https://huggingface.co/spaces/Adityax-07/FinQwen-Benchmark)
 
 </div>
 
